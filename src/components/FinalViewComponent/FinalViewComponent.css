@@ -1,0 +1,46 @@
+/* FinalViewComponent.css */
+.my-4 {
+    margin-top: 1.5rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .list-group {
+    width: 70%;
+  }
+  
+  .list-group-item {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .btn-primary,
+  .btn-danger {
+    cursor: pointer;
+    margin-top: 3rem; /* Add space between buttons */
+    font-size: 1.2rem;
+    margin-right: 2rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .btn-danger {
+    margin-top: 0.5rem; /* Adjust space for the Reset button */
+  }
+  
+
+  /* Mobile-specific styles */
+@media (max-width: 768px) {
+    .my-4 {
+      padding: 1rem;
+    }
+  
+    .btn-primary,
+    .btn-danger {
+      font-size: 1rem; /* Adjust button font size for smaller screens */
+      padding: 0.3rem 0.6rem; /* Adjust button padding for smaller screens */
+      margin-top: 0.5rem; /* Adjust space between buttons for smaller screens */
+    }
+  }

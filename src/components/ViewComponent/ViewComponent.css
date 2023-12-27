@@ -1,0 +1,23 @@
+/* ViewComponent.css */
+.my-4 {
+    margin-top: 1.5rem;
+    border: 1px solid #ddd; /* Add border */
+    padding: 1rem; /* Add padding */
+  }
+  
+  .list-group {
+    width: 70%;
+  }
+  
+  .list-group-item {
+    font-family: 'Arial', sans-serif;
+  }
+
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+    .my-4 {
+      padding: 1rem; /* Adjust padding for smaller screens */
+    }
+  }
+  
+  
