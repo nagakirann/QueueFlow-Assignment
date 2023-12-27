@@ -1,4 +1,3 @@
-// ViewComponent.js
 import React from 'react';
 import './ViewComponent.css'
 

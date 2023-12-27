@@ -1,8 +1,7 @@
-/* Header.css */
 header {
   background-color: #007bff;
   color: #fff;
   text-align: center;
   padding: 1rem;
-  border-bottom: 5px solid #fff; /* Change border width */
+  border-bottom: 5px solid #fff; 
 }

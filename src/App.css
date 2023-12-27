@@ -1,4 +1,3 @@
-/* App.css */
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -11,8 +10,8 @@
   }
   
   .input-view-wrapper {
-    flex: 0 0 60%; /* Adjust the width of the InputComponent and ViewComponent */
+    flex: 0 0 60%;
   }
   
-  /* Add any additional styling as needed */
+  
   

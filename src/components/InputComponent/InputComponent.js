@@ -1,4 +1,3 @@
-// InputComponent.js
 import React, { useState } from 'react';
 import './InputComponent.css';
 
